@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?36w6e8');
+  src:  url('fonts/icomoon.eot?36w6e8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?36w6e8') format('truetype'),
+    url('fonts/icomoon.woff?36w6e8') format('woff'),
+    url('fonts/icomoon.svg?36w6e8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e900";
+}
+.icon-bell:before {
+  content: "\e951";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-cog:before {
+  content: "\e994";
+}
+.icon-pie-chart:before {
+  content: "\e99a";
+}
+.icon-stats-dots:before {
+  content: "\e99b";
+}
+.icon-stats-bars:before {
+  content: "\e99c";
+}
+.icon-trophy:before {
+  content: "\e99e";
+}
+.icon-rocket:before {
+  content: "\e9a5";
+}
+.icon-meter:before {
+  content: "\e9a6";
+}
+.icon-fire:before {
+  content: "\e9a9";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-flag:before {
+  content: "\e9cc";
+}
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-grin:before {
+  content: "\e9e9";
+}
+.icon-circle-up:before {
+  content: "\ea41";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-mail2:before {
+  content: "\ea84";
+}
